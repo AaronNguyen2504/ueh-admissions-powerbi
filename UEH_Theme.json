@@ -1,0 +1,38 @@
+{
+  "name": "UEH Tuyen sinh Dao tao 2025",
+  "dataColors": [
+    "#004C45", "#1D428A", "#FFD100", "#512D6D",
+    "#1B365D", "#3E877C", "#5B82C4", "#9B7CB8"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#16211F",
+  "tableAccent": "#004C45",
+  "good": "#004C45",
+  "neutral": "#FFD100",
+  "bad": "#B3261E",
+  "maximum": "#004C45",
+  "center": "#F4F6F6",
+  "minimum": "#B3261E",
+  "textClasses": {
+    "title": { "fontFace": "Segoe UI Semibold", "fontSize": 13, "color": "#16211F" },
+    "header": { "fontFace": "Segoe UI Semibold", "fontSize": 11, "color": "#16211F" },
+    "label": { "fontFace": "Segoe UI", "fontSize": 10, "color": "#4A5A58" },
+    "callout": { "fontFace": "Segoe UI Semibold", "fontSize": 32, "color": "#004C45" }
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "show": true, "color": { "solid": { "color": "#FFFFFF" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#E4E9E8" } } }],
+        "title": [{ "show": true, "fontColor": { "solid": { "color": "#16211F" } }, "alignment": "left" }],
+        "visualHeader": [{ "show": false }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#F4F6F6" } }, "transparency": 0 }],
+        "outspace": [{ "color": { "solid": { "color": "#F4F6F6" } }, "transparency": 0 }]
+      }
+    }
+  }
+}
