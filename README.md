@@ -4,7 +4,7 @@
 
 An interactive Power BI report analysing admissions and training outcomes at the University of Economics Ho Chi Minh City (UEH, HCMC campus), 2021–2025: quotas and cut-off scores, applicant-to-enrolment funnel, enrolment by faculty group, student lifecycle (dropout, GPA, academic warnings) and graduate employment.
 
-Course project for Management Information Systems (practice) at the University of Labour and Social Affairs (Campus II). Team of 3. **Nguyen Huu An** built the whole analytical product: dataset design, data cleaning in Power Query, star-schema data model, DAX measures, dashboard design and insights. Teammates presented the results and prepared the slides.
+Course project for Management Information Systems (practice) at the University of Labour and Social Affairs (Campus II). Team of 3. **An Nguyen Huu (Aaron Nguyen)** built the whole analytical product: dataset design, data cleaning in Power Query, star-schema data model, DAX measures, dashboard design and insights. Teammates presented the results and prepared the slides.
 
 ![Overview dashboard](docs/screenshots/01-overview.png)
 
